@@ -1,7 +1,7 @@
 # todoMaker
 Step-1
 
-Use git clone https://github.com/jithesh-wq/todoMaker
+git clone https://github.com/jithesh-wq/todoMaker
 
 Step-2
 
